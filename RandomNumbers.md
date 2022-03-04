@@ -22,6 +22,8 @@ y = 2* x +1 + state.randn(100)
 plt.scatter(x, y);
 
 ```
+![random dataset Numpy](https://user-images.githubusercontent.com/64541754/156778715-8add9144-0d31-4447-b0a3-9aa4bf68bb3a.png)
+
 
 in the above example we have:
 <span style="color:yellow">np.random.RandomState(1)</span>  To define state to use when generating the data this is to get the same data every time we execute
