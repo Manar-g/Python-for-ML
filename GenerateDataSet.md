@@ -39,3 +39,4 @@ other possibilities: randint(0,10,100) to generate 100 integer with values betwe
 To get random points around a straight line, use the line equation and add random diplacement to each point as follows:
 in the example above the random points will be around the line with the equation y = 2x +1
                       Without using rand() we get 100 points exactly on the line with x-value between 0 and 10
+
